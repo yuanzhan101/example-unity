@@ -68,8 +68,10 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\CoinCollector.cs" />
     <Compile Include="Assets\Scripts\CoinSpan.cs" />
     <Compile Include="Assets\Scripts\PickUp.cs" />
+    <Compile Include="Assets\Scripts\Warp.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/yzhan101/git/example-unity/UnityLearning/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
